@@ -2,7 +2,6 @@
 
 Welcome to my resume repository! 
 
-- **Role Interested In:** Founder's Office Intern
 - **Education:** B.Tech in CSE (Artificial Intelligence & Machine Learning), VIT Bhopal University
 - **Current CGPA:** 8.28
 - **Core Skills:** Data Analytics, Python, SQL, Project Coordination, and Content Leadership
